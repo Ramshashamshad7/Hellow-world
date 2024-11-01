@@ -1,2 +1,2 @@
 # Hellow-world
-My first repository om github
+My first repository oN github
